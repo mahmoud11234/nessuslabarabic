@@ -59,4 +59,4 @@
     ![alt text](https://raw.githubusercontent.com/mahmoud11234/nessuslabarabic/refs/heads/main/16.png)
 
     انقر على علامة التبويب (الثغرات الأمنية - Vulnerabilities)، وسترى جميع الثغرات الأمنية التي تم اكتشافها على المضيف:
-    https://raw.githubusercontent.com/mahmoud11234/nessuslabarabic/refs/heads/main/17.png
+    ![alt text](https://raw.githubusercontent.com/mahmoud11234/nessuslabarabic/refs/heads/main/17.png)
